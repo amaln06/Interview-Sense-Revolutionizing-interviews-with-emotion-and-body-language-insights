@@ -1,0 +1,2 @@
+# Interview-Sense-Revolutionizing-interviews-with-emotion-and-body-language-insights
+Interview-Sense is an AI-based system that enhances interview evaluation by analyzing emotions and body language. It uses computer vision to detect facial expressions, posture, and gestures from video data. A dynamic dashboard presents insights, helping interviewers assess confidence, engagement, and consistency beyond verbal responses.
