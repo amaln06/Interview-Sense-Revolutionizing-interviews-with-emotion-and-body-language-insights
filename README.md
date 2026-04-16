@@ -14,28 +14,28 @@ Traditional interviews focus mainly on verbal responses, often ignoring importan
 6. AI-Based Feedback – Provides strengths & improvement suggestions
 
 # Technologies Used
-Python
-OpenCV – Video processing
-MediaPipe – Pose & body tracking
-FER / CNN Models – Emotion detection
-Librosa & Praat – Speech analysis
-Scikit-learn – Machine learning models
-Firebase / SQLite – Data storage
-Matplotlib / Chart.js – Visualization
+1. Python
+2. OpenCV – Video processing
+3. MediaPipe – Pose & body tracking
+4. FER / CNN Models – Emotion detection
+5. Librosa & Praat – Speech analysis
+6. Scikit-learn – Machine learning models
+7. Firebase / SQLite – Data storage
+8. Matplotlib / Chart.js – Visualization
 
  # System Architecture
 The system follows a modular architecture:
 
-Video Upload
-Preprocessing (frame extraction & audio separation)
-Emotion Detection (facial analysis)
-Body Language Detection (pose estimation)
-Speech Analysis
-Behavioral Prediction (ML models)
-Dashboard & Report Generation
+1. Video Upload
+2. Preprocessing (frame extraction & audio separation)
+3. Emotion Detection (facial analysis)
+4. Body Language Detection (pose estimation)
+5. Speech Analysis
+6. Behavioral Prediction (ML models)
+7. Dashboard & Report Generation
 
 # Use Cases
-Job interview evaluation
-Mock interview practice
-HR recruitment systems
+Job interview evaluation,
+Mock interview practice,
+HR recruitment systems,
 Behavioral analysis research 
